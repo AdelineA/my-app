@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter, Outlet, Route, Routes } from "react-router";
-import About from "./components/About";
+import About from './components/About';
 import Contact from "./components/Contact";
 import Home from "./components/Home";
 import LayOut from "./components/LayOut";
